@@ -10,11 +10,17 @@ export default function Experiences() {
       <hr  />
       <div data-aos='fade-right' className='journey'>
       <div className='educard'>
-        <h1 className=''>Ajeesh Solutions</h1>
-        <p>Company aims to provide a platform to host and organize hackathons and events.</p>
+        <h1 className=''>Zidio Developement</h1>
+        <p>Collaborated in a team to work on projects, focusing on creating and optimizing front-end using React and
+           advanced UI libraries.
+        </p>
+        <p> Utilized Git for version control and collaborated with the team using agile methodologies, participating in daily
+            meetings and code reviews.
+        </p>
+
         <hr />
         <p>Web Developer Intern</p>
-        <p>Oct/2021 - Present</p>
+        <p>june/2024 - Present</p>
     </div> 
     </div>
     <h1 className='heading'>Github Profile</h1>

@@ -33,43 +33,37 @@ export default function Project() {
       description="Sorting Visualizer"
       img= {sorting}
       duration="An interactive web application utilizing JavaScript to visually illustrate the step-by-step execution of various sorting algorithms"
-      gitlink="https://github.com/siddhartha285/Sorting-Visualizer"
-      live="https://64ccaa092be4dd60dbdf58be--sparkling-souffle-62f884.netlify.app/"
+      gitlink="https://github.com/Lovepratap8936/sorting-visualizer"
+      live="https://sorting-visualizer-bice-six.vercel.app/"
       />
       <Projcard
       description="Music Player"
       img= {musicplayer}
       duration="A sleek and user-friendly music player website, thoughtfully designed using HTML, CSS and javascript. "
-      gitlink="https://github.com/siddhartha285/Music-Player"
-      live="https://648ec9aa38df29146815216f--coruscating-biscochitos-b9db45.netlify.app/"
+      gitlink="https://github.com/Lovepratap8936/music-player"
+      live="https://music-player-ten-brown.vercel.app/"
       />
-      <Projcard
-      description="Personal Portfolio"
-      img= {portfolio_website_img}
-      duration="Personal portfolio web app, meticulously crafted using React and other powerful libraries, designed to help exhibit talent, skills, and accomplishments."
-      gitlink=""
-      live=""
-      />
+      
         <Projcard
       description="Netflix-Clone"
       img= {netflix}
       duration="A web app built using React Js and Axios that demonstrates the frontend of the famous Netflix website."
-      gitlink="https://github.com/siddhartha285/Netflix-Clone"
-      live="https://netflix-clone-jet-psi.vercel.app/"
+      gitlink="https://netflix-clone-sable-three-23.vercel.app/"
+      live="https://github.com/Lovepratap8936/Netflix-clone"
       />
         <Projcard
       description="Daily Goals"
       img= {dailygoals}
       duration="A website built using HTML, CSS and Javascript that lets you store your daily goals and edit them with help of local storage."
-      gitlink="https://github.com/siddhartha285/Daily_Goals_Javascript"
-      live="https://64ba73e6e9e426007364c6b5--vocal-mochi-f7e7c8.netlify.app/"
+      gitlink="https://github.com/Lovepratap8936/Daily-Goals"
+      live="https://daily-goals-drab.vercel.app/"
       />
         <Projcard
       description="Weather App"
       img= {weather}
       duration="Wether app provides you the exact weather data of a location using weather api. It is built using HTML, CSS and Javascript."
-      gitlink="https://github.com/siddhartha285/weather-javascript"
-      live="https://64bd07bba116000e20680805--resonant-arithmetic-6494f5.netlify.app/"
+      gitlink="https://github.com/Lovepratap8936/Weather-application"
+      live="https://weather-application-six-livid.vercel.app/"
       />
       
       

@@ -7,7 +7,7 @@ export default function Footer() {
   return (
     <div className='footer'>
         <p className='name'>
-            @{date} Ryuguno
+            @{date} Love Pratap
         </p>
     </div>
   )
