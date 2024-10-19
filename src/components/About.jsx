@@ -13,6 +13,7 @@ import {AiFillGithub} from "react-icons/ai"
 import {BiLogoNodejs} from "react-icons/bi"
 import {BiLogoMongodb} from "react-icons/bi"
 import {AiOutlineConsoleSql} from "react-icons/ai"
+import { AiOutlineProject } from 'react-icons/ai';
 
 export default function About() {
   useEffect(()=>{
@@ -62,6 +63,10 @@ export default function About() {
     <div className='skill'>
     <AiFillGithub size='2rem' color='green'/>
     <p className='skillname'>Git/Github</p>
+    </div>
+    <div className='skill'>
+    <  AiOutlineProject  size='2rem' color='green'/>
+    <p className='skillname'>Jira</p>
     </div>
     <div className='skill'>
     <BiLogoNodejs size='2rem' color='#68A063'/>
